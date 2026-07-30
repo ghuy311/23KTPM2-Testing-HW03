@@ -4,7 +4,7 @@
 |---|---|
 | **Màn hình** | D2 — My Requests (Yêu cầu hỗ trợ) |
 | **Mã checklist liên quan** | IA01-03 |
-| **Ngày giờ phát hiện** | (điền ngày giờ test thực tế) |
+| **Ngày giờ phát hiện** | 31/07/2026 |
 | **Vai trò khi test** | User |
 | **Mức độ nghiêm trọng (0–4)** | 1 |
 

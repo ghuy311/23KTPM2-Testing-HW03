@@ -61,7 +61,7 @@
 | IA04-07 | Tương tác nhấn (Active/Pressed) lên nút bấm có phản hồi lún xuống hoặc đổi màu nền. | Passed| | |
 | IA04-08 | Con trỏ chuột đổi thành hình bàn tay (Pointer) khi trỏ vào các vùng có thể tương tác (Clickable). |Passed | | |
 | IA04-09 | Các nút bị vô hiệu hóa (Disabled) bị làm mờ, không thể click và đổi con trỏ thành `not-allowed`. | N/A | | |
-| IA04-10 | Tooltip xuất hiện giải thích ý nghĩa khi hover vào các nút bấm chỉ có icon (VD: Icon con mắt). | Failed | Không có Tooltip khi hover |![alt text](../01_report/screenshots/D1/D1_IA04-10.png) |
+| IA04-10 | Tooltip xuất hiện giải thích ý nghĩa khi hover vào các nút bấm chỉ có icon (VD: Icon con mắt). | N/A | Không có nút bấm nào chỉ có mỗi icon | |
 | IA04-11 | Tích hợp liên kết tới User Guide hoặc Support rõ ràng cho Admin/User khi cần hỗ trợ. | Passed | | |
 | IA04-12 | Nút ẩn/hiện mật khẩu (Toggle Password Visibility) hoạt động chính xác trong các form bảo mật. | N/A | Form chỉ điền các thông tin hỗ trợ không yêu cầu bảo mật | |
 | IA04-13 | Progress bar hiển thị đúng tỷ lệ % (VD: Tỷ lệ đăng ký, tiến độ duyệt) và đổi màu theo trạng thái. | N/A |Form không có Progress bar | |
