@@ -35,7 +35,7 @@
 
 | (1) Prompt + Công cụ | (2) Output AI | (3) Verdict | (4) Lý do (ISTQB) | (5) Bản SV sửa |
 | :--- | :--- | :--- | :--- | :--- |
-| **Artifact #1** | | | | |
+| **Artifact #1** <br> Công cụ : Gemini <br> Thời gian : 20:21 30/7/2026 <br> Prompt : " Độ tương phản màu sắc (Contrast Ratio) giữa chữ và nền đủ cao để dễ đọc (Cater to Universal Usability)"| Provided a structured list of tools to evaluate Color Contrast Ratio for Universal Usability, categorized by manual testing (WebAIM, Coolors), browser-based DOM testing (Chrome DevTools, WAVE, Lighthouse), and automated CI/CD integration (axe-core, pa11y).  |Valid | | |
 | **Artifact #2** | | | | |
 | **Artifact #3** | | | | |
 | **Artifact #4** | | | | |
