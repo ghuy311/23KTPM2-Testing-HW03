@@ -165,7 +165,7 @@
 | IA02-09 | Sau khi upload ảnh thành công, có hiển thị ảnh Preview trước khi submit form. | N/A | | |
 | IA02-10 | Nút Submit bị disable hoặc chuyển sang trạng thái loading khi form đang gửi đi để tránh double-submit. | N/A | | |
 | IA02-11 | Focus order (bấm phím Tab) di chuyển hợp lý từ trên xuống dưới, trái sang phải trong form. | Passed | | |
-| IA02-12 | Outline Focus: Có viền bao quanh rõ ràng khi dùng phím Tab di chuyển vào input/button (Accessibility). | Failed | Khi tab vào các request hỗ trợ ở dưới màu khó nhìn không có outlint. |[Video đính kèm](../01_report/screenshots/D3/D3_IA02-12.mp4) |
+| IA02-12 | Outline Focus: Có viền bao quanh rõ ràng khi dùng phím Tab di chuyển vào input/button (Accessibility). | Failed | Khi tab vào các request hỗ trợ ở dưới màu khó nhìn không có outline. |[Video đính kèm](../01_report/screenshots/D3/D3_IA02-12.mp4) |
 | IA02-13 | Form có nhiều bước (VD: Reset Password) hiển thị thanh chỉ báo tiến trình (Step Indicator). | N/A | | |
 | IA02-14 | Rich-text editor hoạt động đúng các chức năng format cơ bản (In đậm, In nghiêng, Bullet). | N/A | | |
 | IA02-15 | Các trường dữ liệu (input fields) hiển thị giá trị mặc định (field default) chính xác và hợp lý. | N/A | | |
@@ -193,7 +193,7 @@
 | IA04-11 | Tích hợp liên kết tới User Guide hoặc Support rõ ràng cho Admin/User khi cần hỗ trợ. | Passed | | |
 | IA04-12 | Nút ẩn/hiện mật khẩu (Toggle Password Visibility) hoạt động chính xác trong các form bảo mật. | N/A | | |
 | IA04-13 | Progress bar hiển thị đúng tỷ lệ % (VD: Tỷ lệ đăng ký, tiến độ duyệt) và đổi màu theo trạng thái. | N/A | | |
-| IA04-14 | Dữ liệu Real-time (VD: số lượng Check-in nhảy số) thay đổi trên UI mà không cần reload trang. | Failed | Không có realtime phải F5 để lấy dữ liệu mới nhất. | Bị rate limit sẽ update clip sau |
+| IA04-14 | Dữ liệu Real-time (VD: số lượng Check-in nhảy số) thay đổi trên UI mà không cần reload trang. | Failed | Không có realtime phải F5 để lấy dữ liệu mới nhất. | [Video](../01_report/screenshots/D3/D3_IA04-14.mp4) |
 | IA04-15 | Cửa sổ pop-up/dialog phải đảm bảo tính Modality (Correct window modality) – khóa các tương tác với màn hình nền bên dưới khi đang mở. | Passed | | |
 | IA04-16 | Trạng thái của các controls và menu đồng bộ và khớp chính xác với trạng thái dữ liệu trong ứng dụng (Synchronization of window object content). | N/A | | |
 

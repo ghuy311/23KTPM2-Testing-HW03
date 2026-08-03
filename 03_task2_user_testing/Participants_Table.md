@@ -3,10 +3,10 @@
 | # | Tên | Vai trò thật (SV/GV/khách) | Liên hệ (đã che) | Ngày hẹn test | Vai trò đóng trong task (User) | Trạng thái |
 |---|---|---|---|---|---|---|
 | 1 |Võ Lê Ngọc Hiếu |Sinh Viên |079****305 |03/08/2027 | User |Đã test |
-| 2 |Đoàn Minh Trí |User | |03/08/2027 | User | Đã test |
-| 3 |Đào Sỹ Duy Minh |User |03/08/2027 | | User | Chưa test |
-| 4 | | | | | User | Chưa test |
-| 5 | | | | | User | Chưa test |
+| 2 |Đoàn Minh Trí |Khách |070****639 |03/08/2027 | User | Đã test |
+| 3 |Đào Sỹ Duy Minh |User |03/08/2027 | | User | Đã test |
+| 4 |Lê Hoàng Minh Nhật |Khách |033****0WW04 | | User | Đã test |
+| 5 | | | | | User | Đã test |
 | Pilot|Nguyễn Trường Duy | Sinh Viên |033****833 |03/08/2027 | User | Đã test |
 
 ## Lưu ý khi điền
