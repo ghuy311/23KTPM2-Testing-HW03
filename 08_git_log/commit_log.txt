@@ -1,0 +1,86 @@
+﻿commit 20a4687af8e21cc57544dae0b2c08c273b9e6a7f
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Tue Aug 4 09:16:30 2026 +0700
+
+    docs(testing): update user testing session notes and calculate SUS score
+
+commit fa08de2b4a1871875ada0c2e6467b5681c7b1dff
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Mon Aug 3 23:04:36 2026 +0700
+
+    Update checklist bß╗ò sung c├íc video minh chß╗⌐ng
+
+commit 6963e3606e2953e117c197b43205e0580120b4b9
+Merge: d086c71 2323663
+Author: Ho Gia Huy <70282150+ghuy311@users.noreply.github.com>
+Date:   Mon Aug 3 21:38:28 2026 +0700
+
+    Merge pull request #1 from ghuy311/backup
+    
+    Backup
+
+commit 23236636580f84d17f1c7f75c080ec92554106b7
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Mon Aug 3 21:36:51 2026 +0700
+
+    Update Task_Scenario and Session_template
+
+commit 09f3bc79800cf5822241d71bc129d3c805409774
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Mon Aug 3 20:36:44 2026 +0700
+
+    backup
+
+commit d086c7186177363f570346e0e5bfa1c3f0407984
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Sun Aug 2 17:55:06 2026 +0700
+
+    Task 3: complete cross-browser/platform matrix D1-D3, 15 runs
+
+commit 82fe39b9514ced9c5cc9ca48de910baa8e4828fe
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Sat Aug 1 18:25:11 2026 +0700
+
+    Template for task 2
+
+commit ecaaf5f46b35b6e4e1f67e521f5aefb6e90d3027
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Sat Aug 1 08:21:22 2026 +0700
+
+    finalize 23 bug reports, findings log
+
+commit 2f07927c43d80fa039bb81800df0ca9dc91a9ff8
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Fri Jul 31 20:16:08 2026 +0700
+
+    Task 1B : D4 checklist + 5 bug reports
+
+commit bbca40ae9581928f11d9477433df05ef4d43a076
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Fri Jul 31 03:42:56 2026 +0700
+
+    Task 1B : D3 checklist +  8 bug reports
+
+commit df85582a69f83e513b37775bc37f963653b45785
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Fri Jul 31 02:30:36 2026 +0700
+
+    Delete 1 bug D1
+
+commit 33023495ed688265de519f56f9ac0c1510fb4f4d
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Fri Jul 31 02:27:11 2026 +0700
+
+    Task 1B : D2 checklists + 5 bug reports
+
+commit 7d042f7e3ecee52e158f2f8169204463bd624531
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Thu Jul 30 22:38:16 2026 +0700
+
+    Task 1B: D1 checklist + 6 bug reports
+
+commit 7f7bb2d9c23d88e43329a455f941b8451890c10a
+Author: ghuy311 <hogiahy311@gmail.com>
+Date:   Wed Jul 29 22:22:29 2026 +0700
+
+    setup initial repository structure
