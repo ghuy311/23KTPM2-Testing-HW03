@@ -74,20 +74,18 @@ Nhóm đã xây dựng bộ **Shared GUI Checklist** gồm **45 mục kiểm th�
 ## 4. Task 3 — Cross-Browser & Cross-Platform Testing
 
 ### 4.1. Ma trận Tương thích đã thực thi
-Ma trận kiểm thử phủ 3 Hệ điều hành (Windows 11, macOS Sonoma, Android 14), 5 Trình duyệt (Chrome, Firefox, Edge, Safari, Opera) và 3 Loại thiết bị (Desktop, Tablet, Mobile Phone).
+Thực thi kiểm thử cross-platform bằng công cụ **BrowserStack** trên 3 màn hình đại diện của Kịch bản D: **D1 (Form tạo Support Request)**, **D2 (My Requests + Chi tiết)**, và **D3 (Danh sách Support Requests - Admin)**. Kế hoạch kiểm thử gồm 5 lượt chạy (Run 1 đến Run 5) bảo đảm phủ đủ **3 Hệ điều hành** (Windows, macOS, Android), **5 Trình duyệt** (Chrome, Firefox, Safari, Edge, Samsung Internet) và **3 Loại thiết bị** (Desktop, Phone, Tablet):
 
-| Thiết bị / Hệ điều hành | Trình duyệt | Màn hình D1 | Màn hình D2 | Màn hình D3 | Màn hình D4 | Kết quả |
-|---|---|---|---|---|---|---|
-| Desktop Windows 11 | Chrome 126 | Pass | Pass | Pass | Pass | Đạt chuẩn |
-| Desktop Windows 11 | Firefox 127 | Pass | Pass | Pass | Pass | Đạt chuẩn |
-| Desktop Windows 11 | Edge 126 | Pass | Pass | Pass | Pass | Đạt chuẩn |
-| Desktop macOS Sonoma | Safari 17 | Pass | Pass | Fail (Layout) | Pass | Tràn danh sách |
-| Desktop macOS Sonoma | Opera 111 | Pass | Pass | Pass | Pass | Đạt chuẩn |
-| Tablet iPadOS 17 | Safari Mobile | Pass | Fail (Scroll) | Pass | Pass | Vỡ thanh cuộn |
-| Mobile Android 14 | Chrome Mobile | Fail (Responsive) | Pass | Fail (Filter) | Pass | Tràn form D1 |
+| Run | Trình duyệt | Hệ điều hành | Loại thiết bị | Màn hình D1 | Màn hình D2 | Màn hình D3 | Ghi chú & Kết quả |
+|---|---|---|---|---|---|---|---|
+| 1 | Chrome | Windows | Desktop | Pass | Pass | Pass | Đạt chuẩn |
+| 2 | Firefox | macOS | Desktop | Pass | Pass | Pass | Đạt chuẩn |
+| 3 | Safari | macOS | Desktop | Pass | Pass | Pass | Đạt chuẩn |
+| 4 | Edge | Android | Phone | Pass | Pass | Failed | Không responsive trên D3 |
+| 5 | Samsung Internet | Android | Tablet | Pass | Pass | Pass | Đạt chuẩn |
 
 ### 4.2. Lỗi giao diện Cross-Platform tiêu biểu
-- **Lỗi Responsive Form D1 trên Mobile (Android Chrome):** Các ô input và nút đính kèm ảnh bị vỡ khung, đè lên lề phải khi xem ở màn hình có chiều rộng < 380px.
+- **Lỗi Responsive Màn hình D3 trên Mobile Phone (Run 4 — Edge / Android / Phone):** Giao diện danh sách yêu cầu hỗ trợ phía Admin (D3) bị vỡ layout trên thiết bị di động. Sidebar menu không tự động ẩn/collapse gây đè lấn lên khu vực thanh lọc (filters), khiến các khung nhập liệu bị chèn ép tràn màn hình (Ảnh bằng chứng minh chứng có overlay MSSV: `04_task3_cross_platform/screenshots/D3/D3_run4_Edge_Android_Phone.png`).
 ---
 
 ## 5. Tổng hợp Findings & Khuyến nghị Cải tiến

@@ -56,8 +56,8 @@
 - **Lỗi giao diện Cross-Platform:** Phát hiện vỡ khung Form D1 trên Chrome Mobile Android và lỗi cuộn bộ lọc D3 trên Safari iPadOS.
 
 ### 2.5. Agent Skill & Video Demo
-- **Agent Skill:** Định nghĩa trong `07_agent_skill/SKILL.md` phục vụ tự động hóa kiểm thử GUI, Nielsen Usability Heuristics và Cross-Platform.
-- **Video Demo:** Chèn liên kết video minh họa vận hành skill trong `07_agent_skill/demo_video_link.md`.
+- **Agent Skill:** Định nghĩa chi tiết trong `07_agent_skill/SKILL.md` (`ems-gui-usability-testing-agent`), cung cấp kịch bản 4 bước tự động hóa kiểm thử GUI Checklist 45 mục (IA01-01 đến IA04-16), đánh giá Nielsen Usability Heuristics và ma trận Cross-Platform trên màn hình Admin Support Requests (D3).
+- **Video Demo:** Video demo minh họa trực quan vận hành Agent Skill được đăng tải lên YouTube ([Link Video YouTube](https://youtu.be/muoY-Sh9AvA)) và ghi nhận tại `07_agent_skill/demo_video_link.md`.
 
 ---
 
