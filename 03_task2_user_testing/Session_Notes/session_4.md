@@ -1,27 +1,27 @@
-# Session Notes — Session 2
+# Session Notes — Session 1
 
 | Trường | Nội dung |
 |---|---|
-| **Mã người tham gia** | #2 |
-| **Họ và tên người tham gia** | Đoàn Minh Trí|
-| **Vai trò thật** | User + Admin |
-| **Liên hệ (đã che)** | 070****639 |
-| **Màn hình kiểm thử** | D1 + D2 |
-| **Ngày giờ test** | 7h47 03/08/2027 |
+| **Mã người tham gia** | #4 |
+| **Họ và tên người tham gia** |Lê Hoàng Minh Nhật |
+| **Vai trò thật** | Sinh viên |
+| **Liên hệ (đã che)** | 033****004 |
+| **Màn hình kiểm thử** | D3 |
+| **Ngày giờ test** | 9h59 03/08/2027 |
 | **Tệp ghi âm / ghi màn hình** | |
 
 ---
 
 ## 1. Task Scenario đã dùng
+D3
 
-D1 + D2
 ---
 
 ## 2. Quan sát trong lúc làm (ghi trực tiếp từ phiên test / video recording)
 
 | Thời điểm (mm:ss) | Thao tác / Phát biểu "Think Aloud" của người dùng | Ghi chú (do dự, lỗi, bực bội...) |
 |---|---|---|
-| 0:55 | Bấm vào ô input ở trên form / "Sao không bấm được" | Do màu sắc khi chuyển màu focus vào form khó nhìn. |
+|  |   |   |
 
 ---
 
@@ -29,25 +29,24 @@ D1 + D2
 
 | Chỉ số (Metric) | Kết quả ghi nhận | Quy chuẩn / Ghi chú |
 |---|---|---|
-| **Task Success** | Complete |  |
-| **Time on Task** | 2 phút | Thời gian từ lúc bắt đầu làm đến khi xong mục tiêu |
-| **Số lần do dự / lỗi thao tác** | 2 lần | Ấn vào ô input trong form không có dấu `|` để biết là đang nhập |
-
+| **Task Success** | Pass | |
+| **Time on Task** | 3 phút| Chậm do wifi người test không ổn định. |
+| **Số lần do dự / lỗi thao tác** | 0 | |
 ---
 
 ## 4. Trả lời Probe Questions (hỏi sau khi hoàn thành task, trước khi điền SUS)
 
 1. Điều gì rõ ràng nhất trong lúc bạn tạo yêu cầu hỗ trợ?
-   > Trong menu hướng dẫn rõ ràng các bước.  
+   > Tên tab dễ hiểu.
 
 2. Có bước nào khiến bạn phân vân hoặc không chắc mình đang làm đúng không?
-   > Chỉ có bước đầu thì loay hoay 1 lúc thì mới tìm được menu hoặc hướng dẫn. Còn các bước sau thì cứ theo hướng dẫn là được.
+   > Tại menu khi mà dùng nick Admin thì tìm tên trang yêu cầu hỗ trợ, đôi khi không phân biệt được tên tab là dành cho admin hay người dùng.
 
 3. Khi yêu cầu gặp lỗi (nếu có xảy ra), bạn có hiểu ngay cần làm gì tiếp theo không?
-   > Có là sẽ đi tìm chỗ hỗ trợ.
+   > 
 
-4. Thao tác thực hiện tạo form hỗ trợ nhanh hay chậm (Nếu phải mô tả tốc độ thao tác này cho bạn bè, bạn sẽ nói gì?)
-   > Nhanh tiện lợi.
+4.Thao tác thực hiện tạo form hỗ trợ nhanh hay chậm (Nếu phải mô tả tốc độ thao tác này cho bạn bè, bạn sẽ nói gì?)
+   > Nhanh.
 
 ---
 

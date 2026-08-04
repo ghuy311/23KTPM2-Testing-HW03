@@ -2,14 +2,13 @@
 
 | Trường | Nội dung |
 |---|---|
-| **Mã người tham gia** | Participant #{N} (từ Participants_Table.md) |
+| **Mã người tham gia** | #{N} (từ Participants_Table.md) |
 | **Họ và tên người tham gia** | |
 | **Vai trò thật** | Sinh viên / Giảng viên / Khách tham gia |
 | **Liên hệ (đã che)** | |
 | **Màn hình kiểm thử** | D1 (Form tạo Support Request) / D2 (My Requests & Phản hồi) / D3 (Admin Support Requests) |
 | **Ngày giờ test** | HH:MM DD/MM/YYYY |
 | **Tệp ghi âm / ghi màn hình** | filename.mp4 |
-| **Phiên Pilot** | Có / Không |
 
 ---
 
@@ -50,10 +49,7 @@
 3. Khi yêu cầu gặp lỗi (nếu có xảy ra), bạn có hiểu ngay cần làm gì tiếp theo không?
    > 
 
-4. Bạn có tin tưởng là yêu cầu của mình đã được ghi nhận và sẽ được xử lý không? Vì sao?
-   > 
-
-5. Nếu phải mô tả tốc độ thao tác này cho bạn bè, bạn sẽ nói gì?
+4. Nếu phải mô tả tốc độ thao tác này cho bạn bè, bạn sẽ nói gì?
    > 
 
 ---

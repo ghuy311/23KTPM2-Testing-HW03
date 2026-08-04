@@ -2,12 +2,12 @@
 
 | Trường | Nội dung |
 |---|---|
-| **Mã người tham gia** | Participant #1 |
-| **Họ và tên người tham gia** | Võ Lê Ngọc Hiếu |
+| **Mã người tham gia** | 5 |
+| **Họ và tên người tham gia** | Nguyễn Trường Duy |
 | **Vai trò thật** | Sinh viên |
-| **Liên hệ (đã che)** | 079****305 |
-| **Màn hình kiểm thử** | D1 + D2 |
-| **Ngày giờ test** | 7h30 03/08/2027 |
+| **Liên hệ (đã che)** | 033****833 |
+| **Màn hình kiểm thử** | D2 |
+| **Ngày giờ test** | 6h42 03/08/2027 |
 | **Tệp ghi âm / ghi màn hình** | |
 
 ---
@@ -21,7 +21,7 @@ D1 + D2
 
 | Thời điểm (mm:ss) | Thao tác / Phát biểu "Think Aloud" của người dùng | Ghi chú (do dự, lỗi, bực bội...) |
 |---|---|---|
-| 0:55 | Bấm vào ô input ở trên form / "Sao không bấm được" | Do màu sắc khi chuyển màu focus vào form khó nhìn. |
+| 0:24 | Bấm vào chi tiết sự kiện mình đăng kí| "Trong sự kiện không có phần support hả". |
 
 ---
 
@@ -38,13 +38,13 @@ D1 + D2
 ## 4. Trả lời Probe Questions (hỏi sau khi hoàn thành task, trước khi điền SUS)
 
 1. Điều gì rõ ràng nhất trong lúc bạn tạo yêu cầu hỗ trợ?
-   > Nút bấm tạo yêu cầu hỗ trợ.
+   > Các trường trong form tạo yêu cầu hỗ trợ.
 
 2. Có bước nào khiến bạn phân vân hoặc không chắc mình đang làm đúng không?
-   > Trong lúc nhập form thì ô input focus vào màu sắc khó nhìn không biết có click vào chưa.
+   > Không có.
 
 3. Khi yêu cầu gặp lỗi (nếu có xảy ra), bạn có hiểu ngay cần làm gì tiếp theo không?
-   > Ban đầu sẽ tìm nút hỗ trợ ngay trong chính trang sự kiện đăng kí chứ không nghĩ phải tìm ở menu.
+   > Trong event không có nút hỗ trợ nên phải tìm menu tạo yêu cầu hỗ trợ.
 
 4.Thao tác thực hiện tạo form hỗ trợ nhanh hay chậm (Nếu phải mô tả tốc độ thao tác này cho bạn bè, bạn sẽ nói gì?)
    > Nhanh.
