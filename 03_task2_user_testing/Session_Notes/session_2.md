@@ -8,7 +8,7 @@
 | **Liên hệ (đã che)** | 070****639 |
 | **Màn hình kiểm thử** | D1 + D2 |
 | **Ngày giờ test** | 7h47 03/08/2027 |
-| **Tệp ghi âm / ghi màn hình** | |
+| **Tệp ghi âm / ghi màn hình** | `2026-08-03 19-46-21.mp4`, `2026-08-03 19-49-02.mp4` ([Drive Link](https://drive.google.com/drive/folders/1hysq3WW5g3tUXwwlrnuPN44EZbLyCwAw?usp=sharing)) |
 
 ---
 

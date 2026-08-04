@@ -8,7 +8,7 @@
 | **Liên hệ (đã che)** | 23122***@student.hcmus.edu.vn |
 | **Màn hình kiểm thử** | D1 + D2 |
 | **Ngày giờ test** | 8h01 03/08/2027 |
-| **Tệp ghi âm / ghi màn hình** | |
+| **Tệp ghi âm / ghi màn hình** | `2026-08-03 20-01-26.mp4` ([Drive Link](https://drive.google.com/drive/folders/1hysq3WW5g3tUXwwlrnuPN44EZbLyCwAw?usp=sharing)) |
 
 ---
 

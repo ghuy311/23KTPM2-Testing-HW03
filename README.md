@@ -6,8 +6,8 @@
 | **Mã số sinh viên** | 23127376 |
 | **Lớp / Khóa** | 23KTPM2 / 23CLC |
 | **Kịch bản phụ trách** | Kịch bản D — Người dùng yêu cầu Support và Admin hỗ trợ |
-| **Tự đánh giá điểm (Self-Assessed Grade)** | **090 / 100** |
-| **Tên file nộp bài (.zip)** | `23127376_HW03_AI_GUIUsability_EMS_090.zip` |
+| **Tự đánh giá điểm (Self-Assessed Grade)** | **100 / 100** |
+| **Tên file nộp bài (.zip)** | `23127376_HW03_AI_GUIUsability_EMS_100.zip` |
 
 ---
 
@@ -22,8 +22,8 @@
 | **2** | **Task 2 — User Testing** (5 người dùng thật + 5 phiên + Usability Report) | 25 | **25** | Đã chạy 5 phiên test thật, thu thập metrics, điểm SUS (62.5) và hoàn thành `03_task2_user_testing/Usability_Report.md` |
 | **3** | **Task 3 — Cross-Platform** (3 OS × 5 Browsers × 3 Devices) | 25 | **25** | Đã hoàn thành ma trận tương thích và ảnh minh chứng có overlay MSSV trong `04_task3_cross_platform/` |
 | **4** | **Log Findings & Google Form** (Gửi form + Log tổng hợp) | 10 | **10** | Đã tổng hợp đầy đủ 18 lỗi GUI và 4 Usability Findings trong `05_findings_log/Bug_Usability_Findings_Log.md` |
-| **5** | **Agent Skills** (Skill tự động hóa + Video Demo) | 10 | **0** | Không thực hiện Agent Skill theo lựa chọn cá nhân |
-| **TỔNG** | **Tổng điểm bài nộp** | **100** | **090 / 100** | **Đạt chuẩn 90/100 điểm** |
+| **5** | **Agent Skills** (Skill tự động hóa + Video Demo) | 10 | **10** | Đã xây dựng Agent Skill `SKILL.md` và tệp `demo_video_link.md` trong `07_agent_skill/` |
+| **TỔNG** | **Tổng điểm bài nộp** | **100** | **100 / 100** | **Đạt tối đa 100/100 điểm** |
 
 ---
 
@@ -55,12 +55,16 @@
 - **Độ phủ ma trận tương thích:** Phủ 100% theo yêu cầu (3 OS: Windows 11, macOS Sonoma, Android 14; 5 Browsers: Chrome, Firefox, Edge, Safari, Opera; 3 Thiết bị: Desktop, Tablet, Mobile Phone).
 - **Lỗi giao diện Cross-Platform:** Phát hiện vỡ khung Form D1 trên Chrome Mobile Android và lỗi cuộn bộ lọc D3 trên Safari iPadOS.
 
+### 2.5. Agent Skill & Video Demo
+- **Agent Skill:** Định nghĩa trong `07_agent_skill/SKILL.md` phục vụ tự động hóa kiểm thử GUI, Nielsen Usability Heuristics và Cross-Platform.
+- **Video Demo:** Chèn liên kết video minh họa vận hành skill trong `07_agent_skill/demo_video_link.md`.
+
 ---
 
 ## 3. Cấu trúc Thư mục Bài nộp
 
 ```
-23127376_HW03_AI_GUIUsability_EMS_090/
+23127376_HW03_AI_GUIUsability_EMS_100/
 ├── 00_group/                       # Sản phẩm dùng chung cấp nhóm (Task 1A)
 │   ├── Shared_GUI_Checklist.md     # Checklist GUI 45 mục (IA-01...IA-04)
 │   └── References_and_Prompts.md   # Nguồn tham khảo & Prompt AI
@@ -83,7 +87,10 @@
 ├── 06_ai_audit/                    # Phụ lục AI Audit & Critique
 │   ├── AI_Audit_Report.md          # Log sử dụng AI đầy đủ
 │   └── AI_Critique.md              # Đoạn phản biện AI (200-300 từ)
+├── 07_agent_skill/                 # Agent Skill & Video Demo (10đ)
+│   ├── SKILL.md                    # File kịch bản Agent Skill
+│   └── demo_video_link.md          # Link video demo vận hành
 ├── 08_git_log/                     # Nhật ký Commit Git
 │   └── commit_log.txt              # Lịch sử commit Git
-└── README.md                       # Trang tổng quan & Bảng tự đánh giá điểm
+└── README.md                       # Trang tổng quan & Bảng tự đánh giá điểm (100đ)
 ```

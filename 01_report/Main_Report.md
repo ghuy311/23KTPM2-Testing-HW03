@@ -88,8 +88,6 @@ Ma trận kiểm thử phủ 3 Hệ điều hành (Windows 11, macOS Sonoma, And
 
 ### 4.2. Lỗi giao diện Cross-Platform tiêu biểu
 - **Lỗi Responsive Form D1 trên Mobile (Android Chrome):** Các ô input và nút đính kèm ảnh bị vỡ khung, đè lên lề phải khi xem ở màn hình có chiều rộng < 380px.
-- **Lỗi Thanh cuộn D3 trên Tablet (iPad Safari):** Bộ lọc tab Pending/Resolved bị ẩn mất một phần và không vuốt ngang được.
-
 ---
 
 ## 5. Tổng hợp Findings & Khuyến nghị Cải tiến

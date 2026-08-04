@@ -8,7 +8,7 @@
 | **Liên hệ (đã che)** | 033****004 |
 | **Màn hình kiểm thử** | D3 |
 | **Ngày giờ test** | 9h59 03/08/2027 |
-| **Tệp ghi âm / ghi màn hình** | |
+| **Tệp ghi âm / ghi màn hình** | `2026-08-03 21-59-43.mp4` ([Drive Link](https://drive.google.com/drive/folders/1hysq3WW5g3tUXwwlrnuPN44EZbLyCwAw?usp=sharing)) |
 
 ---
 
